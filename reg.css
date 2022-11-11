@@ -1,0 +1,44 @@
+input[type=text] {
+width:  80%;
+padding: 12px 20px;
+margin: 8px 65px;
+border:2px solid blue;
+background-color:#f3f3f3;
+color: #000;
+}
+.container {
+    width:  70%;
+    padding:20px 12px;
+    margin: 100px 12.5%;
+    box-shadow:border-box;
+    border:2px solid blue;
+    background-color:#f3f3f3;
+    color: #000;
+    border-radius: 10px solid blue;
+}
+label{
+    margin:8px 65px;
+}
+
+img{
+    padding-left: 35%;
+
+   }
+
+   #Gend {
+    margin: 8px 65px;
+   }
+    #birth{
+        margin:8px 65px;
+    }
+button{
+    background-color: #000;
+    color: #f3f3f3;
+    margin-left: auto ;    
+    margin-right: auto;
+    display: block;
+    font-size: 200%;
+    border-radius: 10px;
+
+}
+

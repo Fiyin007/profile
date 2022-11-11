@@ -1,0 +1,53 @@
+input[type=text] {
+width:  80%;
+padding: 12px 20px;
+margin: 8px 65px;
+box-shadow:border-box;
+border:2px solid blue;
+background-color:#f3f3f3;
+color: #000;
+}
+.container {
+    width:  70%;
+    padding:20px 12px;
+    box-shadow: border-box;
+    background-color:#f3f3f3;
+    color: #000;
+    margin: 100px 12.5%;
+    border-radius:10px solid blue;
+}
+label{
+    margin:8px 65px;
+}
+
+img{
+    padding-left: 35%;
+
+   }
+
+   #Gend {
+    margin: 8px 65px;
+   }
+    #birth{
+        margin:8px 65px;
+    }
+button{
+    background-color: #000;
+    color: #f3f3f3;
+    margin-left: auto ;    
+    margin-right: auto;
+    display: block;
+    font-size: 200%;
+    border-radius: 10px;
+
+}
+/* <h1>Fiyinfoluwa tech</h1>
+                    <h2>30,ibadan street </h2>
+                    <h3>ebute-metta,</h3>
+                    <h4>lagos mainland</h4>
+                    <h4>Nigeria</h4>
+                    <h5>procastination is my enemy</h5>
+                    <h5>call 09090616898</h5>
+                    <button type="botton" class="btn btn-info">login</button>
+                    <button type="botton" class="btn btn-info">signin</button>
+*/
